@@ -1,0 +1,6 @@
+{
+  "name": "DNS Server",
+  "description": "Fast, encrypted DNS-over-TLS manager with Google, Quad9, Cloudflare, DNS.SB, and AdGuard DNS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

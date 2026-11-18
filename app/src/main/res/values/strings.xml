@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DNS Server</string>
+    <string name="vpn_notification_channel_name">DNS Server Tunnel</string>
+    <string name="vpn_notification_channel_desc">Shows active encrypted DNS-over-TLS connection status</string>
+    <string name="vpn_notification_title">DNS Server Active</string>
+    <string name="vpn_notification_text">Secured via %1$s (%2$s)</string>
+    <string name="vpn_action_disconnect">Disconnect</string>
+    <string name="status_connected">CONNECTED</string>
+    <string name="status_connecting">CONNECTING</string>
+    <string name="status_disconnected">DISCONNECTED</string>
+    <string name="status_error">CONNECTION ERROR</string>
+    <string name="status_connected_kh">បានភ្ជាប់ដោយជោគជ័យ</string>
+    <string name="status_connecting_kh">កំពុងភ្ជាប់ទៅកាន់ DNS...</string>
+    <string name="status_disconnected_kh">មិនទាន់បានភ្ជាប់</string>
+    <string name="status_error_kh">ការភ្ជាប់មានបញ្ហា</string>
+    <string name="secured_with_dot">Secured with DNS over TLS</string>
+    <string name="secured_with_dot_kh">ការពារសុវត្ថិភាពតាមរយៈ DNS over TLS</string>
+    <string name="tap_to_connect_en">Tap power button to route DNS securely</string>
+    <string name="tap_to_connect_kh">ចុចប៊ូតុងថាមពលដើម្បីបើកការការពារ DNS</string>
+    <string name="select_dns_provider">SELECT DNS PROVIDER</string>
+    <string name="select_dns_provider_kh">ជ្រើសរើសម៉ាស៊ីនមេ DNS</string>
+    <string name="current_dns">Current DNS</string>
+    <string name="current_dns_kh">DNS បច្ចុប្បន្ន</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_toggle_theme">Toggle dark or light theme</string>
+    <string name="cd_power_button">Toggle DNS VPN connection</string>
+    <string name="cd_expand_providers">Expand DNS provider details</string>
+    <string name="cd_open_diagnostics">Open current DNS diagnostics and query log</string>
+</resources>
